@@ -1,5 +1,7 @@
 # The C64 250407 replica
 
+THIS PROJECT CLONED FROM https://github.com/bwack/C64-250407-Replica-KiCad
+
 A replica of the Commodore 64 250407 1983 mother board, and the schematics.
 
 The replica project was started by Michael K. (Der Alte Bastler) in 2019 to learn SprintLayout and the process of reverse engineering PCB. I finished it, importet it in KiCad, imported the KU motherboard schematics and modified it to match the 250407 Reb.B schematics.
